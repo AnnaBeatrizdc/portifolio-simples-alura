@@ -16,3 +16,5 @@
 - Links para redes sociais e contato
 
 <a href="https://annabeatrizdc.github.io/portifolio-simples-alura/">Veja como ficou!!</a>
+
+<img src="https://github.com/AnnaBeatrizdc/portifolio-simples-alura/blob/main/portifolio.mp4" width="600" alt="Nanobrowser Demo GIF" />
